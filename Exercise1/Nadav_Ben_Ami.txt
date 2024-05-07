@@ -1,4 +1,1 @@
-push
 Name: Nadav Ben-Ami
-Email: nadav.benami@classiq.io
-I like Git & GitHub
